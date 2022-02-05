@@ -10,7 +10,19 @@ import UIKit
 extension NewsVC: UITableViewDelegate {
     
     func tableView(_ tableView: UITableView, heightForRowAt indexPath: IndexPath) -> CGFloat {
-        return 588
+        if indexPath.row == 0 {
+            return 45
+        } else if indexPath.row == 1 {
+            return UITableView.automaticDimension
+        } else if indexPath.row == 2 {
+            if newsArray[indexPath.section].image != nil {
+                return 355
+            } else {
+                return UITableView.automaticDimension
+            }
+        } else {
+            return 50
+        }
     }
-
+    
 }
