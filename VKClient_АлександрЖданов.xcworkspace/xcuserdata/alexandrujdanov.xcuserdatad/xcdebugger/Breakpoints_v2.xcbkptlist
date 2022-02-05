@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "24C4628C-082A-4B69-A27D-9913E98D9141"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1CF06277-2021-4D72-A2FA-A7B51BD0D0F2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Controllers/GetData/GetFriendsList.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "loadData(complition:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9E766304-E34E-4828-B258-F163C40D531C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Controllers/GetData/GetPhotosFriend.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "loadData(ownerID:complition:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DCB7FF11-3B5B-4CC1-884B-F15C7D6659E7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Controllers/RealmOperations.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "saveGroupsToRealm(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D8A0EFB7-B9E5-4F23-BFA2-004EF0D65346"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Controllers/RealmOperations.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "saveFriendsToRealm(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "093E8311-E04C-4048-B990-EB6F9D35B8F2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Model/Session.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "token"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F3E707AB-51D0-48B0-A8E1-02EB910FF07D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Model/Session.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "userId"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "15D8A595-EF3E-436B-B845-4634DAD3C9DF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Model/Session.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "expiredDate"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A42A0224-6752-41BC-85A5-B7B48F8C5F86"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Services/GetFriendsList.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "loadData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B34F48FF-C463-4BE1-A0EF-FBE2BDC97E0F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Views/RealmOperations.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "savePhotosToRealm(_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "20B9A994-D4A2-4674-BAF1-4948AA4E9F34"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Controllers/GalleryViewController/GalleryVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "loadPhotosFromRealm()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF98E2F8-A215-4836-90AE-2A155925DBB6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Services/GetPhotosFriend.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "loadData(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DE3117A1-5039-4359-A26C-C43F213A16C7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Controllers/FriendsViewController/FriendsVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "subscribeToNotificationRealm()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F33DE7F2-EC35-4FBA-9B7D-3C9FB8F46099"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Controllers/FriendsViewController/FriendsVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "getFriendInfoForCell(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "379E993B-68DF-4876-88E7-EF483FDE44F6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Controllers/FriendsViewController/FriendsVC+SearchBarDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "searchBar(_:textDidChange:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E2C2662F-8E78-4600-9B72-F20279EEF760"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Controllers/MyGroupViewController/MyGroupVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "writeNewGroupToFirebase(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CEBF5582-AD8D-4DF6-A360-CF9AA578448F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Controllers/VKLoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "writeUserToFirebase(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -1,0 +1,759 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A5033E3C-3499-46E9-970E-44588A327FCA"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1527BB53-8770-436E-8948-87A390BADA5D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Controllers/GalleryController/GalleryVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "654F83B4-9FD6-4D8A-88DC-F3E71A94AD6A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Controllers/GalleryController/GalleryVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "configureCollectionView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "447DC807-31DE-4E8A-8653-ED76CD73A925"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Controllers/GalleryController/GalleryVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "69D80F0A-8899-43F1-896A-E0924B11C211"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Controllers/GalleryController/GalleryVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "GalleryVC"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E244454D-A6CC-41FC-8AAC-D66BB4797B39"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Controllers/Test/TransitionManage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "animateTransition(using:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D632A03A-54A4-4FF7-8C5A-BDFF72C2A95E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Controllers/Test/TransitionManage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "transitionDuration(using:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D505C696-4C42-49B4-A1D4-AA9034EFF9C2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Controllers/Test/TransitionManage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "TransitionManager"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "D505C696-4C42-49B4-A1D4-AA9034EFF9C2 - 1b9d89c038c13592"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;.TransitionManager.__allocating_init() -&gt; VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;.TransitionManager"
+                  moduleName = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexandrujdanov/Desktop/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BA%D0%B0/VKClient_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%96%D0%B4%D0%B0%D0%BD%D0%BE%D0%B2/VKClient_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%96%D0%B4%D0%B0%D0%BD%D0%BE%D0%B2/Controllers/Test/TransitionManage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "D505C696-4C42-49B4-A1D4-AA9034EFF9C2 - 4219b50229553431"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;.TransitionManager.init() -&gt; VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;.TransitionManager"
+                  moduleName = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexandrujdanov/Desktop/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BA%D0%B0/VKClient_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%96%D0%B4%D0%B0%D0%BD%D0%BE%D0%B2/VKClient_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%96%D0%B4%D0%B0%D0%BD%D0%BE%D0%B2/Controllers/Test/TransitionManage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "D505C696-4C42-49B4-A1D4-AA9034EFF9C2 - 8607326339d3f4a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;.TransitionManager.__deallocating_deinit"
+                  moduleName = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexandrujdanov/Desktop/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BA%D0%B0/VKClient_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%96%D0%B4%D0%B0%D0%BD%D0%BE%D0%B2/VKClient_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%96%D0%B4%D0%B0%D0%BD%D0%BE%D0%B2/Controllers/Test/TransitionManage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D163100D-48EE-4836-8AAB-4C7B4E718133"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Controllers/Test/FirstViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "navigationController(_:animationControllerFor:from:to:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3A09BB92-D314-4AB3-BDF6-A487E6B2EB10"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Controllers/Test/TransitionManage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "animateTransition(using:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "312E0BFF-C385-448E-A092-6F6FCD293E33"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Controllers/Test/TransitionManage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "animateTransition(using:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "66D68A42-5079-47C0-AD55-DA0DCC29AE41"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Controllers/Test/TransitionManage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "animateTransition(using:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF36D644-D110-499A-8875-B5CAC505F15B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Controllers/Test/TransitionManage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "animateTransition(using:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "95F2F265-3F06-43D9-8631-C38F6AC26504"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Controllers/Test/TransitionManage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "animateTransition(using:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F3B0C4BC-5142-4AE8-9325-94427E5F7BD9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Controllers/Test/FirstViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "navigationController(_:animationControllerFor:from:to:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5C2EB413-C86A-4BBD-A8E1-918CDD2CC85B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Controllers/Test/TransitionManage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "animateTransition(using:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2B55EE00-EFE8-482F-89DE-DF43569C91CD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Controllers/Test/TransitionManage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "animateTransition(using:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C3EFDC91-F436-4198-B154-70D9BCBF2D5F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Controllers/Test/TransitionManage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "animateTransition(using:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EA4820CE-C0A5-4D05-BF60-37F1EFFCE66F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Controllers/Test/TransitionManage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "animateTransition(using:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "88408E73-0DC9-4492-B899-94E464DE8FF5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Controllers/Test/FirstViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "ViewController"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "57D17CC4-8DF5-4DEC-91D4-1FBF294DD32B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Controllers/Test/TransitionManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "animateTransition(using:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D6A7F337-72BE-413C-BCCD-F4DDFE336325"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Controllers/AllGroupViewController/AllGroupVC+TablevViewDataSource.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A7F8B254-71F7-48A5-905A-670611588558"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Controllers/AllGroupViewController/AllGroupVC+TableViewDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "AllGroupViewController"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C848C0A7-3F32-450C-85C1-CC19613910BF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Controllers/MyGroupViewController/MyGroupVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "MyGroupViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B0D64A65-03AE-4BFF-8978-635F1AD6FCEC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Cells/CustomTableViewCellGRoups.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "configure(group:clusure:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "088F98CB-F77C-4ECC-BCE3-76093EA33919"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Controllers/AllGroupViewController/AllGroupVC+TablevViewDataSource.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "47C8B2EF-D94C-4540-B0F4-38B964D902B0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Controllers/MyGroupViewController/MyGroupVC+TablevViewDataSource.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "079DE0C8-CE1A-44D9-8328-4CB6700F68B7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Controllers/MyGroupViewController/MyGroupVC+TablevViewDataSource.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3D30AB79-E417-48F2-A5E7-76E7D7F323CF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Controllers/AllGroupViewController/AllGroupVC+TablevViewDataSource.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3640C8EC-3B82-4213-810B-64AF151E715A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Controllers/MyGroupViewController/MyGroupVC+TablevViewDataSource.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FBE45936-1C7C-4447-8574-6222A788DB59"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Services/GetDataFromVK.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "FBE45936-1C7C-4447-8574-6222A788DB59 - f649dd6c8d04a6ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;.GetDataFromVK.loadData(VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;.GetDataFromVK.parametersAPI) -&gt; ()"
+                  moduleName = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexandrujdanov/Desktop/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BA%D0%B0/VKClient_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%96%D0%B4%D0%B0%D0%BD%D0%BE%D0%B2/VKClient_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%96%D0%B4%D0%B0%D0%BD%D0%BE%D0%B2/Services/GetDataFromVK.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "1428">
+               </Location>
+               <Location
+                  uuid = "FBE45936-1C7C-4447-8574-6222A788DB59 - f649dd6c8d04a6ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;.GetDataFromVK.loadData(VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;.GetDataFromVK.parametersAPI) -&gt; ()"
+                  moduleName = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexandrujdanov/Desktop/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BA%D0%B0/VKClient_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%96%D0%B4%D0%B0%D0%BD%D0%BE%D0%B2/VKClient_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%96%D0%B4%D0%B0%D0%BD%D0%BE%D0%B2/Services/GetDataFromVK.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "1824">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D9181178-9EDB-4BBD-A487-C3E03716EAF6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Services/GetDataFromVK.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C076F616-A5B3-4DA4-86DB-6F2DF54601ED"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Controllers/VKLoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "loadAuthVK()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F7F984A-33FF-45B2-A360-617F86B80043"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Controllers/FriendsViewController/FriendsVC+SearchBarDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2219834D-5DAD-4217-A242-6B80DE1E5F53"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Controllers/GalleryViewController/GalleryVC+CollectionViewDataSource.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "44E95E3A-F3BA-4413-8355-E2BA7BF0C7E6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Controllers/FriendsViewController/FriendsVC+TableViewDataSource.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "282E8B51-3244-4300-A4B0-BEED21C6DE3C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Controllers/FriendsViewController/FriendsVC+TableViewDataSource.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DA0C47D7-29BA-4634-B548-2AF4D0311CE0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Controllers/FriendsViewController/FriendsVC+TableViewDataSource.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "configureTableView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "96052A61-A37D-49C7-86B2-5293E1CDE12F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Controllers/FriendsViewController/FriendsVC+TableViewDataSource.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "numberOfSections(in:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "39F4C26C-94DA-4649-B9F7-3D658A5A89D7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Controllers/GalleryViewController/GalleryVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6D77A106-A385-43E9-AA2A-44D8F07972E3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Controllers/LoadViewURL.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "load(url:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2CB24324-FFCD-42C8-A93F-D466200B39CB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Controllers/FriendsViewController/FriendsVC+TableViewDataSource.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C4FBAA55-8AFF-499A-BB11-406282AB6AAC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Controllers/FriendsViewController/FriendsVC+TableViewDataSource.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
