@@ -33,7 +33,10 @@ extension NewsVC: UITableViewDataSource {
         case 0:
             let titleCell: NewsTitleTableViewCell = tableView.dequeueReusableCell(forIndexPath: indexPath)
             
-            titleCell.configure(image: newsArray[indexPath.section].avatar, title: newsArray[indexPath.section].name, date: newsArray[indexPath.section].date)
+            guard let avatarUrl = URL(string: newsArray[indexPath.section].avatar ) else { return titleCell }
+            titleCell.avatarImageView.load(url: avatarUrl)
+            
+            titleCell.configure(title: newsArray[indexPath.section].name, date: newsArray[indexPath.section].date)
             
             return titleCell
         case 1:
@@ -45,13 +48,17 @@ extension NewsVC: UITableViewDataSource {
         case 2:
             let imageCell: NewsImageTableViewCell = tableView.dequeueReusableCell(forIndexPath: indexPath)
             
-            imageCell.configure(image: newsArray[indexPath.section].image)
+            guard let imgUrl = URL(string: newsArray[indexPath.section].image ) else { return imageCell }
+            imageCell.imageNews.load(url: imgUrl)
             
             return imageCell
         default:
             let likeCell: NewsLikeTableViewCell = tableView.dequeueReusableCell(forIndexPath: indexPath)
             
-            likeCell.configure(likeCount: newsArray[indexPath.section].likeCount, commentCount: newsArray[indexPath.section].commentCount)
+            likeCell.configure(likeCount: String("\(newsArray[indexPath.section].likes)"), commentCount: String("\(newsArray[indexPath.section].comments)"))
+            
+            
+            likeCell.countLike = newsArray[indexPath.section].likes
             
             return likeCell
         }
