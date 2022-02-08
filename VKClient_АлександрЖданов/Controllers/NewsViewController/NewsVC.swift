@@ -11,13 +11,17 @@ class NewsVC: UIViewController {
 
     @IBOutlet weak var tableView: UITableView!
     
-    var newsArray = [News]()
-    
-    let customCellNewsReuseIdentifier = "customCellNewsReuseIdentifier"
+    var newsArray: [News] = []
     
     override func viewDidLoad() {
         super.viewDidLoad()
         configureTableView()
-        fillNewsArray()
+        
+        GetNewsList().loadData { complition in
+            DispatchQueue.main.async {
+                self.newsArray = complition
+                self.tableView.reloadData()
+            }
+        }
     }
 }
