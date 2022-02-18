@@ -12,7 +12,7 @@ extension MyGroupViewController: UITableViewDataSource {
     func configureTableView() {
         tableView.dataSource = self
         tableView.delegate = self
-        tableView.register(UINib(nibName: "CustomTableViewCellGroups", bundle: nil), forCellReuseIdentifier: customCellReuseIdentifier)
+        tableView.registerWithNib(registerClass: CustomTableViewCellGroups.self)
         NotificationCenter.default.addObserver(self, selector: #selector(addGroup(_:)), name: Notification.Name("groupSelectedNotification"), object: nil)
     }
     
@@ -25,7 +25,7 @@ extension MyGroupViewController: UITableViewDataSource {
     }
     
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
-        guard let cell = tableView.dequeueReusableCell(withIdentifier: customCellReuseIdentifier, for: indexPath) as? CustomTableViewCellGroups else {return UITableViewCell()}
+        let cell: CustomTableViewCellGroups = tableView.dequeueReusableCell(forIndexPath: indexPath)
         
         cell.configure(group: groupsArray[indexPath.row], clusure: {[weak self] in
             if self != nil {
@@ -33,12 +33,15 @@ extension MyGroupViewController: UITableViewDataSource {
             }
         })
         
-        if let imgUrl = URL(string: groupsArray[indexPath.row].avatar ?? "noImage") {
-            cell.avatarImageView.load(url: imgUrl)
+        guard let imgUrl = groupsArray[indexPath.row].avatar else { return cell }
+        if cell.avatarImageView.image == nil {
+            cell.avatarImageView.image = imageCache?.photo(atIndexPath: indexPath, byUrl: imgUrl)
+        } else {
+            cell.avatarImageView.image = UIImage(named: imgUrl)
         }
         
         cell.addButton.setImage(UIImage(named: "ceckicon2"), for: .normal)
         return cell
     }
-
+    
 }

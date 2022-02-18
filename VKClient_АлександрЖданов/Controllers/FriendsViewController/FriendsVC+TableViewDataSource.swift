@@ -13,7 +13,7 @@ extension FriendsViewController: UITableViewDataSource {
         tableView.dataSource = self
         tableView.delegate = self
         searchBar.delegate = self
-        tableView.register(UINib(nibName: "CustomTableViewCellFriends", bundle: nil), forCellReuseIdentifier: customCellReuseIdentifier)
+        tableView.registerWithNib(registerClass: CustomTableViewCellFriends.self)
     }
     
     func numberOfSections(in tableView: UITableView) -> Int {
@@ -48,13 +48,13 @@ extension FriendsViewController: UITableViewDataSource {
     }
     
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
-        guard let cell = tableView.dequeueReusableCell(withIdentifier: customCellReuseIdentifier, for: indexPath) as? CustomTableViewCellFriends else {return UITableViewCell()}
+        let cell: CustomTableViewCellFriends = tableView.dequeueReusableCell(forIndexPath: indexPath)
         
         let friendInfo = getFriendInfoForCell(indexPath)
         cell.nameLabel.text = friendInfo.name
-        
+
         guard let imgUrl = friendInfo.avatar else { return cell }
-        cell.avatarImageView.load(url: imgUrl)
+        cell.avatarImageView.image = imageCache?.photo(atIndexPath: indexPath, byUrl: String("\(imgUrl)"))
         
         return cell
     }
