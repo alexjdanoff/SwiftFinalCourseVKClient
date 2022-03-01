@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19519"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="NewsTextCell" rowHeight="205" id="KGk-i7-Jjw" customClass="NewsTextCell" customModule="VKClient_АлександрЖданов" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="340" height="205"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="340" height="205"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" lineBreakMode="wordWrap" numberOfLines="4" baselineAdjustment="alignBaselines" minimumFontSize="9" adjustsFontForContentSizeCategory="YES" id="mp6-Sn-EHd">
+                        <rect key="frame" x="20" y="11" width="300" height="20.5"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <fontDescription key="fontDescription" name=".AppleSystemUIFont" family=".AppleSystemUIFont" pointSize="17"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <button opaque="NO" contentMode="left" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="jBz-hA-5cP">
+                        <rect key="frame" x="8" y="182" width="176" height="31"/>
+                        <state key="normal" title="Button"/>
+                        <buttonConfiguration key="configuration" style="plain" title="Показать полностью...">
+                            <fontDescription key="titleFontDescription" type="system" pointSize="14"/>
+                        </buttonConfiguration>
+                        <connections>
+                            <action selector="pressShowMoreButton:" destination="KGk-i7-Jjw" eventType="touchUpInside" id="csw-0I-CsH"/>
+                        </connections>
+                    </button>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="bottom" secondItem="jBz-hA-5cP" secondAttribute="bottom" constant="-8" id="CNO-L7-KtI"/>
+                    <constraint firstItem="mp6-Sn-EHd" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leadingMargin" id="KbN-1S-f6q"/>
+                    <constraint firstAttribute="trailingMargin" secondItem="mp6-Sn-EHd" secondAttribute="trailing" id="bvi-Wh-8l2"/>
+                    <constraint firstItem="mp6-Sn-EHd" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="topMargin" id="hwj-Vf-cXu"/>
+                    <constraint firstItem="jBz-hA-5cP" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="8" id="q88-r3-VzF"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="newsTextLabel" destination="mp6-Sn-EHd" id="Wp2-pm-ABr"/>
+                <outlet property="showMoreButton" destination="jBz-hA-5cP" id="nC9-6j-7ja"/>
+                <outlet property="textLabel" destination="mp6-Sn-EHd" id="9IJ-bH-1Sf"/>
+            </connections>
+            <point key="canvasLocation" x="146.37681159420291" y="155.69196428571428"/>
+        </tableViewCell>
+    </objects>
+</document>
