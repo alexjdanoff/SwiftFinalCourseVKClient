@@ -13,7 +13,6 @@ class FriendsViewController: UIViewController {
     @IBOutlet weak var tableView: UITableView!
     @IBOutlet weak var searchBar: UISearchBar!
     
-    let customCellReuseIdentifier = "customCellReuseIdentifier"
     let toGallerySegue = "toGallerySegue"
     
     var friendsList: [Friend] = []
@@ -21,6 +20,7 @@ class FriendsViewController: UIViewController {
     var namesListModifed: [String] = []
     var letersOfNames: [String] = []
     var notificationToken: NotificationToken?
+    var imageCache: ImageCache?
     
     var realm: Realm = {
         let configrealm = Realm.Configuration(deleteRealmIfMigrationNeeded: true)
@@ -36,7 +36,8 @@ class FriendsViewController: UIViewController {
         super.viewDidLoad()
         configureTableView()
         subscribeToNotificationRealm()
-        GetFriendsList().loadData()
+        GetFriendsList().getData()
+        imageCache = ImageCache(container: tableView)
     }
     
     private func subscribeToNotificationRealm() {

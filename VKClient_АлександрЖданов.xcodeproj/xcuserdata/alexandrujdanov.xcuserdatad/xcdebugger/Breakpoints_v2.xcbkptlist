@@ -413,9 +413,9 @@
             filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Controllers/MyGroupViewController/MyGroupVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "73"
-            endingLineNumber = "73"
-            landmarkName = "MyGroupViewController"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "MyGroupsViewController"
             landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
@@ -461,8 +461,8 @@
             filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Controllers/MyGroupViewController/MyGroupVC+TablevViewDataSource.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "41"
-            endingLineNumber = "41"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
             landmarkName = "tableView(_:cellForRowAt:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -589,8 +589,8 @@
             filePath = "VKClient_&#x410;&#x43b;&#x435;&#x43a;&#x441;&#x430;&#x43d;&#x434;&#x440;&#x416;&#x434;&#x430;&#x43d;&#x43e;&#x432;/Controllers/VKLoginViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "26"
-            endingLineNumber = "26"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
             landmarkName = "loadAuthVK()"
             landmarkType = "7">
          </BreakpointContent>
