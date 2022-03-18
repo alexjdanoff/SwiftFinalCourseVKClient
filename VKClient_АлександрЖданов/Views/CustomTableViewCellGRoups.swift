@@ -41,8 +41,6 @@ class CustomTableViewCellGroups: UITableViewCell {
         
     }
     
-
-    
     func avatarComfigure() {
         avatarImageView.layer.cornerRadius = tealView.frame.size.height / 2
         tealView.layer.cornerRadius = tealView.frame.size.height / 2
@@ -55,7 +53,6 @@ class CustomTableViewCellGroups: UITableViewCell {
     
     
     @IBAction func pressAddButton(_ sender: UIButton) {
-        
         self.clusure?()
         
         UIView.transition(with: addButton,
